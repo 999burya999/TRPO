@@ -1,5 +1,5 @@
 <?php
 namespace Burya;
-class BuryaException extends RuntimeException
+class BuryaException extends \RuntimeException
 {
 }
